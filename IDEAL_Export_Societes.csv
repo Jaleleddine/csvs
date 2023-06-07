@@ -1,0 +1,4 @@
+﻿Name;ShortName;Street;Street2;PostalCode;Locality;StartDate;EndDate;Street3;Cedex;IsRh;Date Photo;Code;IsArchived;ISGroup;Code TELA;IsDroitApplicatedUSA;IdentificationNumberType;CompanyIdentificationNumber;TranscoGiseh;Location_Id;Country
+;;NON DEFINI;;;SOCIETE GENERIQUE;01/01/1900;12/31/2022;;;True;03/21/2023;0;False;True;n.a. société générique;False;International code (DUNS);n.a. société générique;2,46291E+14;15927;FRA
+;;;;;Paris;10/04/2013;12/30/9999;;;False;03/21/2023;1;False;False;;False;Unknown;;2,46291E+14;15927;FRA
+;;;;;Paris;10/04/2013;12/30/9999;;;False;03/21/2023;3;False;False;;False;Unknown;;2,46291E+14;15927;FRA
